@@ -46,24 +46,23 @@ I'm a passionate **Full Stack Web Developer** with expertise in building dynamic
 - **Description:** A WhatsApp Web interface implementation showcasing frontend architecture and real-time messaging concepts
 - **Skills:** JavaScript, Web Architecture
 
-#### 2. **Whatsapp-Template** ⭐
+#### 2. **Whatsapp-Template**
 - **URL:** [GitHub Repository](https://github.com/Muhammad-Tabish-123/Whatsapp-Template)
 - **Language:** JavaScript
-- **Stars:** 1 ⭐
 - **Description:** Responsive Web design of WhatsApp Web with modern UI/UX principles
 - **Skills:** Responsive Design, CSS, JavaScript, Web Layout
 
 #### 3. **Blood-Bank** 
 - **URL:** [GitHub Repository](https://github.com/Muhammad-Tabish-123/Blood-Bank)
 - **Language:** PHP
-- **Description:** 5th semester academic project - Full stack web application using PHP and MySQL as backend
-- **Features:** Database management, Backend processing, User authentication
+- **Description:** Full stack web application using PHP and MySQL as backend. A comprehensive healthcare management system for blood donation tracking and management.
+- **Features:** Database management, Backend processing, User authentication, Blood inventory management
 - **Skills:** PHP, MySQL, Database Design, Full Stack Development
 
 #### 4. **Mobile-Store-My-Version** 
 - **URL:** [GitHub Repository](https://github.com/Muhammad-Tabish-123/Mobile-store-my-version)
 - **Language:** PHP
-- **Description:** Mini e-commerce practice project using PHP as backend for product management and sales
+- **Description:** E-commerce application using PHP as backend for product management, shopping cart, and sales processing
 - **Skills:** PHP Backend, E-commerce Logic, Database Integration
 
 ### 📖 Learning & Practice Projects
@@ -72,22 +71,18 @@ I'm a passionate **Full Stack Web Developer** with expertise in building dynamic
 - **URL:** [GitHub Repository](https://github.com/Muhammad-Tabish-123/React-Practice-Basic)
 - **Language:** JavaScript
 - **Description:** React.js practice projects - implementing components, state management, and hooks
-- **Course:** Learning React.js fundamentals and advanced concepts
 - **Skills:** React.js, Component-Based Architecture, State Management
 
 #### 6. **NodeJS-Practice-Basic** 
 - **URL:** [GitHub Repository](https://github.com/Muhammad-Tabish-123/NodeJS-Practice-Basic)
 - **Language:** JavaScript
 - **Description:** Implementation of "The Complete Node.js Developer" Udemy course by Andrew Mead
-- **Course:** Comprehensive Node.js backend development training
 - **Skills:** Node.js, Server-Side JavaScript, Express, APIs
 
-#### 7. **Js-Practice** ⭐
+#### 7. **Js-Practice**
 - **URL:** [GitHub Repository](https://github.com/Muhammad-Tabish-123/Js-practice)
 - **Language:** JavaScript
-- **Stars:** 1 ⭐
 - **Description:** Implementation of "The Complete JavaScript Course 2023: From Zero to Expert!" by Jonas Schmedtmann
-- **Course:** Advanced JavaScript concepts and modern ES6+ syntax
 - **Skills:** JavaScript Fundamentals, Advanced Concepts, DOM Manipulation, Async Programming
 
 #### 8. **UI-Fundamentals** 
@@ -120,18 +115,13 @@ I'm a passionate **Full Stack Web Developer** with expertise in building dynamic
 - **Description:** Flexbox layout practice and modern CSS layout techniques
 - **Skills:** CSS Flexbox, Responsive Design, Modern CSS
 
-#### 13. **m4l1_Managing_a_Project** 
-- **URL:** [GitHub Repository](https://github.com/Muhammad-Tabish-123/m4l1_managing_a_project)
-- **Description:** Project management and organizational practices
-
 ---
 
 ## 📊 Repository Statistics
 
-- **Total Repositories:** 13
+- **Total Repositories:** 12 Public Projects
 - **Primary Languages:** JavaScript, PHP, HTML, CSS
 - **Secondary Languages:** C#, SQL/TSQL
-- **Popular Projects:** 2 repositories with stars ⭐
 - **Focus Areas:** Full Stack Development, Web Design, Backend Systems
 
 ---
@@ -147,7 +137,7 @@ My GitHub showcases a **comprehensive learning path** through web development:
 5. **PHP Backend** → Server-side PHP, Database integration, AJAX
 6. **Database Skills** → SQL, MySQL, TSQL, data management
 7. **Full Stack Projects** → Blood Bank, Mobile Store - complete applications
-8. **Specialized Topics** → C#, Project Management
+8. **Specialized Topics** → C#, Advanced styling with Flexbox
 
 ---
 
@@ -197,13 +187,11 @@ I'm continuously working on:
 
 <div align="center">
 
-### ⭐ If you find my projects helpful, consider giving them a star!
-
 **Happy Coding!** 💻✨
 
 </div>
 
 ---
 
-*Last Updated: September 2, 2026*  
+*Last Updated: September 14, 2026*  
 *Powered by GitHub | Muhammad Tabish's Portfolio*
