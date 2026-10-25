@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Muhammad Tabish
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E7D32&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web+Designer+%26+Developer;JavaScript+%7C+React+%7C+Node.js;PHP+%7C+MySQL+%7C+C%23;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E7D32&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web+Designer+%26+Developer;JavaScript+%7C+React+%7C+PHP;Building+Modern+Web+Experiences" alt="Typing animation" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Web Developer** with expertise in building dynamic, responsive web applications. My journey includes learning through hands-on projects, implementing industry best practices, and continuously expanding my technical skill set. I focus on creating clean, maintainable code and delivering user-friendly solutions.
+I'm a passionate **Full Stack Web Developer** with expertise in building dynamic, responsive web applications. My journey includes learning through hands-on projects, implementing industry best practices, and continuously improving my development skills.
 
 ### 💼 What I Do:
 - 🎨 **Frontend Development** - HTML, CSS, JavaScript, React.js
@@ -169,6 +169,7 @@ My GitHub showcases a **comprehensive learning path** through web development:
 I'm always interested in collaborating on interesting projects, discussing web technologies, or sharing knowledge with fellow developers.
 
 - 🔗 **GitHub:** [@Muhammad-Tabish-123](https://github.com/Muhammad-Tabish-123)
+- 💼 **LinkedIn:** [Muhammad Tabish](https://www.linkedin.com/in/muhammad-tabish-248535212/)
 - 💬 **Open to:** Collaboration, Code Reviews, Technical Discussions
 - 🎯 **Currently:** Building full-stack applications and expanding expertise
 
